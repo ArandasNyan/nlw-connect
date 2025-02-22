@@ -12,7 +12,7 @@ Este projeto é uma api de inscrições e indicações de pessoas/amigos/familia
 
 ## Estrutura de Diretórios
 ```
-server/                   
+nlw-connect/                   
 ├── .vscode/                # Configurações de projeto
 ├── src/                    # Código-fonte principal
 │   ├── config/             # Configurações gerais
